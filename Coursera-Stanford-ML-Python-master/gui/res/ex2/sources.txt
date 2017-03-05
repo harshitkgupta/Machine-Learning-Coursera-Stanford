@@ -1,4 +1,0 @@
-costFunction.py
-costFunctionReg.py
-sigmoid.py
-gradientFunction.py

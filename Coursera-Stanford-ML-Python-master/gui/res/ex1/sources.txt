@@ -1,3 +1,0 @@
-warmUpExercise.py
-plotData.py
-normalEqn.py
