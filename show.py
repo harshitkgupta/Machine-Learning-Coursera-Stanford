@@ -1,4 +1,4 @@
-from matplotlib import use
+from matplotlib.__init__ import use
 use('TkAgg')
 import matplotlib.pyplot as plt
 
