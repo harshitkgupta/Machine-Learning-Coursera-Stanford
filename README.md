@@ -27,3 +27,5 @@ token:
 ```
 
 The login credentials will be saved to a file for subsequent submissions. Please see the [wiki](https://github.com/harshitkgupta/Machine-Learning-Coursera-Stanford/blob/master/Coursera%20Stanford%20ML%20Python%20wiki.ipynb) for a short tutorial on using Python.
+
+<a href="https://www.buymeacoffee.com/cognitivecamp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
